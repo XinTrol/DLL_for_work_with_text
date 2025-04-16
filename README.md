@@ -1,0 +1,1 @@
+# DLL_for_work_with_text
