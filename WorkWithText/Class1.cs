@@ -11,10 +11,29 @@
 
             return words.OrderByDescending(w => w.Length).FirstOrDefault() ?? string.Empty;
         }
+
+
+        public int GetCountWordMeetInString(string input, string word)
+        {
+            if (string.IsNullOrWhiteSpace(input) || string.IsNullOrWhiteSpace(word))
+            {
+                return -1;
+            }
+
+            var words = input.Split(new[] { ' ', '\t', '\r', '\n', '.', ',', ';', ':', '!', '?', '-', '"' }, StringSplitOptions.RemoveEmptyEntries);
+
+            var lowerWords = words.Select(w => w.ToLower()).ToArray();
+            string lowerWord = word.ToLower();
+
+            int count = lowerWords.Count(w => w == lowerWord);
+            return count;
+        }
+
       
         public static string ReplaceSymbol(string input, char target, char replacement)
         {
             return input.Replace(target, replacement);
+
         }
     }
 }

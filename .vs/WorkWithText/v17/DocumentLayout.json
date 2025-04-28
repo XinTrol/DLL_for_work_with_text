@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WorkWithText",
+              "Title": "WorkWithText.csproj",
               "DocumentMoniker": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
               "RelativeDocumentMoniker": "WorkWithText\\WorkWithText.csproj",
               "ToolTip": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
               "RelativeToolTip": "WorkWithText\\WorkWithText.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-28T11:29:46.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-28T11:29:46.066Z"
             },
             {
               "$type": "Document",
@@ -39,9 +38,9 @@
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\Class1.cs",
               "RelativeDocumentMoniker": "WorkWithText\\Class1.cs",
-              "ToolTip": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\Class1.cs",
-              "RelativeToolTip": "WorkWithText\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\Class1.cs*",
+              "RelativeToolTip": "WorkWithText\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T11:29:33.714Z",
               "EditorCaption": ""

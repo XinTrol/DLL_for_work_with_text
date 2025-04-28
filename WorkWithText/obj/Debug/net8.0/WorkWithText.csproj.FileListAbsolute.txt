@@ -1,0 +1,12 @@
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\bin\Debug\net8.0\WorkWithText.deps.json
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\bin\Debug\net8.0\WorkWithText.dll
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\bin\Debug\net8.0\WorkWithText.pdb
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.GeneratedMSBuildEditorConfig.editorconfig
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.AssemblyInfoInputs.cache
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.AssemblyInfo.cs
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.csproj.CoreCompileInputs.cache
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.sourcelink.json
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.dll
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\refint\WorkWithText.dll
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\WorkWithText.pdb
+D:\Karmanov\DLL_for_work_with_text\WorkWithText\obj\Debug\net8.0\ref\WorkWithText.dll
