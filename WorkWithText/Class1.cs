@@ -1,7 +1,10 @@
 ﻿namespace WorkWithText
 {
-    public class Class1
+    public class TextUtilsLibrary
     {
-
+        public static string ReplaceSymbol(string input, char target, char replacement)
+        {
+            return input.Replace(target, replacement);
+        }
     }
 }
