@@ -11,5 +11,10 @@
 
             return words.OrderByDescending(w => w.Length).FirstOrDefault() ?? string.Empty;
         }
+      
+        public static string ReplaceSymbol(string input, char target, char replacement)
+        {
+            return input.Replace(target, replacement);
+        }
     }
 }
