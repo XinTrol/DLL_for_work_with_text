@@ -6,5 +6,10 @@
         {
             return input.Replace(target, replacement);
         }
+
+        public static int CountCharacterOccurrences(string input, char character)
+        {
+            return input.Count(c => c == character);
+        }
     }
 }
