@@ -27,5 +27,18 @@
             int count = lowerWords.Count(w => w == lowerWord);
             return count;
         }
+
+        public int GetCountWordsInString(string input)
+        {
+            if (string.IsNullOrWhiteSpace(input))
+            {
+                return -1;
+            }
+
+            var words = input.Split(new[] { ' ', '\t', '\r', '\n', '.', ',', ';', ':', '!', '?', '-', '"' }, StringSplitOptions.RemoveEmptyEntries);
+            int count = words.Count();
+            return count;
+        }
+
     }
 }
