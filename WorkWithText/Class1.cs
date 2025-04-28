@@ -12,6 +12,7 @@
             return words.OrderByDescending(w => w.Length).FirstOrDefault() ?? string.Empty;
         }
 
+
         public int GetCountWordMeetInString(string input, string word)
         {
             if (string.IsNullOrWhiteSpace(input) || string.IsNullOrWhiteSpace(word))
@@ -28,6 +29,7 @@
             return count;
         }
 
+
         public int GetCountWordsInString(string input)
         {
             if (string.IsNullOrWhiteSpace(input))
@@ -38,6 +40,19 @@
             var words = input.Split(new[] { ' ', '\t', '\r', '\n', '.', ',', ';', ':', '!', '?', '-', '"' }, StringSplitOptions.RemoveEmptyEntries);
             int count = words.Count();
             return count;
+        }
+
+
+      
+        public static string ReplaceSymbol(string input, char target, char replacement)
+        {
+            return input.Replace(target, replacement);
+
+        }
+
+        public static int CountCharacterOccurrences(string input, char character)
+        {
+            return input.Count(c => c == character);
         }
 
     }
