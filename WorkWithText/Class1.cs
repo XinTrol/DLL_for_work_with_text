@@ -4,7 +4,7 @@
     {
         public static string ReplaceSymbol(string input, char target, char replacement)
         {
-            
+            return input.Replace(target, replacement);
         }
     }
 }
