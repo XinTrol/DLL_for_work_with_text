@@ -12,6 +12,7 @@
             return words.OrderByDescending(w => w.Length).FirstOrDefault() ?? string.Empty;
         }
 
+
         public int GetCountWordMeetInString(string input, string word)
         {
             if (string.IsNullOrWhiteSpace(input) || string.IsNullOrWhiteSpace(word))
@@ -26,6 +27,13 @@
 
             int count = lowerWords.Count(w => w == lowerWord);
             return count;
+        }
+
+      
+        public static string ReplaceSymbol(string input, char target, char replacement)
+        {
+            return input.Replace(target, replacement);
+
         }
     }
 }
