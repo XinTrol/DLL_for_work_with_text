@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Karmanov\\DLL_for_work_with_text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412BF57A-18F1-4AF9-B111-7FBAFF2CFB93}|WorkWithText\\WorkWithText.csproj|d:\\karmanov\\dll_for_work_with_text\\workwithtext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412BF57A-18F1-4AF9-B111-7FBAFF2CFB93}|WorkWithText\\WorkWithText.csproj|solutionrelative:workwithtext\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412BF57A-18F1-4AF9-B111-7FBAFF2CFB93}|WorkWithText\\WorkWithText.csproj|d:\\karmanov\\dll_for_work_with_text\\workwithtext\\workwithtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{412BF57A-18F1-4AF9-B111-7FBAFF2CFB93}|WorkWithText\\WorkWithText.csproj|solutionrelative:workwithtext\\workwithtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkWithText",
+              "DocumentMoniker": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
+              "RelativeDocumentMoniker": "WorkWithText\\WorkWithText.csproj",
+              "ToolTip": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
+              "RelativeToolTip": "WorkWithText\\WorkWithText.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-28T11:29:46.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\Class1.cs",
+              "RelativeDocumentMoniker": "WorkWithText\\Class1.cs",
+              "ToolTip": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\Class1.cs",
+              "RelativeToolTip": "WorkWithText\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:29:33.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
