@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\кармановад\\.nuget\\packages\\": {},
+    "C:\\Users\\СавуковЕА\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
+      "projectUniqueName": "D:\\Savukov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
       "projectName": "WorkWithText",
-      "projectPath": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
-      "packagesPath": "C:\\Users\\кармановад\\.nuget\\packages\\",
-      "outputPath": "D:\\Karmanov\\DLL_for_work_with_text\\WorkWithText\\obj\\",
+      "projectPath": "D:\\Savukov\\DLL_for_work_with_text\\WorkWithText\\WorkWithText.csproj",
+      "packagesPath": "C:\\Users\\СавуковЕА\\.nuget\\packages\\",
+      "outputPath": "D:\\Savukov\\DLL_for_work_with_text\\WorkWithText\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\кармановад\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\СавуковЕА\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
