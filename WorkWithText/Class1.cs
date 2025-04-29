@@ -55,5 +55,12 @@
             return input.Count(c => c == character);
         }
 
+        public static string ReplaceSubstring(string input, string oldSubstring, string newSubstring)
+        {
+            return input.Replace(oldSubstring, newSubstring);
+        }
+
+
+
     }
 }
